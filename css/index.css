@@ -1,0 +1,24 @@
+.explanation{
+  display: none;
+}
+.term{
+  display: inline-block;
+}
+h4{
+  color: rgb(17, 185, 185);
+  text-shadow: 1px 1px brown;
+  font-family:Georgia, 'Times New Roman', Times, serif
+}
+.card{
+  box-shadow:4px 4px cyan;
+}
+p{
+  margin: 0.8em 0;
+  word-spacing: 2px;
+  line-height: 20px;
+  text-align: justtify;
+  color: rgb(75, 72, 72);
+  font-size: 13px;
+  font-family: 'open sans condensed', 'HelveticaNeue', 'Helvetica Neue', 
+  'Helvetica-Neue', Helvetica, Arial, sans-serif;
+}
